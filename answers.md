@@ -52,6 +52,20 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 Answer 10) No the changes made online did not get reflected in my local copy
 
-Answer 11) 
+Answer 11)  ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/connor-quinn/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+
+
+Answer 12) Yes the changes were made in my local directory
+
+Answer 13) cquinn@sp-018:~/cs2400/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
+
+
+
 
 
