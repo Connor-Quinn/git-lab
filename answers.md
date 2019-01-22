@@ -16,4 +16,11 @@ Answer 4) On Branch Master
 
 Answer 5) Changes to be committed:
 
-           new file;  README.md
+           new file:  README.md
+
+
+Answer 6) new file:  README.MD
+
+          new file:  answers.md
+
+Answer 7) 
