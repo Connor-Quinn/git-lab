@@ -50,7 +50,8 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 
-Answer 10) No the changes made online did not get ref;ected in my local copy
+Answer 10) No the changes made online did not get reflected in my local copy
 
-Answer 11)
+Answer 11) 
+
 
